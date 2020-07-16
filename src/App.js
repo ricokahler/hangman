@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import styled from 'styled-components';
 import { range } from 'lodash';
